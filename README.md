@@ -11,8 +11,8 @@ There is two version available :
 See http://fzerorubigd.github.com/persian-fonts-linux
 
 ```batch
-$ sudo apt install git
-$ git clone https://github.com/majnooni/persian-fonts-linux.git
-$ cd persian-fonts-linux/
-$ ./farsifonts.sh
+sudo apt install git
+git clone https://github.com/majnooni/persian-fonts-linux.git
+cd persian-fonts-linux/
+./farsifonts.sh
 ```
