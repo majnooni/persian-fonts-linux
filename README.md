@@ -9,3 +9,10 @@ There is two version available :
    - zfarsifont.sh : GUI version (require zenity)
 
 See http://fzerorubigd.github.com/persian-fonts-linux
+
+```batch
+$ sudo apt install git
+$ git clone https://github.com/majnooni/persian-fonts-linux.git
+$ cd persian-fonts-linux/
+$ ./farsifonts.sh
+```
